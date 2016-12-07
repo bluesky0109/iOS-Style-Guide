@@ -1,1 +1,35 @@
-{}
+{
+    "author": "yongfeng Zhange <huifeng0109@gmail.com>",
+    "description": "iOS 编码规范指南",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "github for this GitBook": "https://github.com/bluesky0109/iOS-Style-Guide"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": ["include-highlight"],
+    "title": "iOS-Style-Guide",
+    "variables": {}
+}
